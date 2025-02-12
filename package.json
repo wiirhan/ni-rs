@@ -1,0 +1,19 @@
+{
+  "name": "ni-rs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiirhan/ni-rs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wiirhan/ni-rs/issues"
+  },
+  "homepage": "https://github.com/wiirhan/ni-rs#readme",
+  "description": ""
+}

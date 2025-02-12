@@ -3,5 +3,13 @@ name = "ni-rs"
 version = "0.1.0"
 edition = "2021"
 
+[[bin]]
+name = "ni"
+path = "src/bin/ni.rs"
+
+[[bin]]
+name = "nr"
+path = "src/bin/nr.rs"
+
 [dependencies]
 clap = { version = "4.5.27", features = ["derive"] }
